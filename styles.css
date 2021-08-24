@@ -2,6 +2,11 @@ body {
   background-color: black;
   color: white;
 }
+
+header {
+  display: flex;
+  justify-content: center;
+}
 #filters {
   display: flex;
   flex-flow: row wrap;
